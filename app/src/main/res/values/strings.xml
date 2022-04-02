@@ -9,4 +9,9 @@
     <string name="playerHint">Enter your name here</string>
     <string name="playerSetup">Enter Players Name</string>
     <string name="startButton">START</string>
+
+
+
+    <string name="playAgain">Play Again</string>
+    <string name="homeButton">HOME</string>
 </resources>
